@@ -20,8 +20,8 @@ import java.util.Collections;
 @RestController
 public class DatadogEventsApiToObserveApplication
 {
-	private final static String OBSERVE_CUSTOMER_ID = "152237425960";
-	private final static String OBSERVE_TOKEN_VALUE = "ds1DJVtoqA5NWFIwKGq7:S7Y35kZ34-kyI1PtBtdw8VjJarezfkVd";
+	private final static String OBSERVE_CUSTOMER_ID = "REPLACE ME";
+	private final static String OBSERVE_TOKEN_VALUE = "REPLACE ME";
 
 	private final static ApiClient client = ApiClient.getDefaultApiClient();
 	private static EventsApi events;
