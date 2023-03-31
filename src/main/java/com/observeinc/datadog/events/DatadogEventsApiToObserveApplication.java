@@ -1,4 +1,4 @@
-package com.example.zignaldatadogapi;
+package com.observeinc.datadog.events;
 
 import com.datadog.api.client.ServerConfiguration;
 
